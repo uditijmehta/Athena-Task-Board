@@ -1,4 +1,4 @@
-# Athena Task Board
+# COrona VIrus TAsks (COVITA)
 
 #### Goal:
 A tool that enables the focus and efficiency of the tech community to fight the COVID-19 virus.
